@@ -1,9 +1,9 @@
 # LineBotExample
 
 ## 준비물
-* 라인 비즈니스 센터 가입 & 라인봇 신청(대충 자영업으로 신청하면 50명제한 있는 건 됨)
+* 라인 비즈니스 센터 가입(대충 자영업으로 신청) & 라인봇 신청
 * https 적용된 도메인
-* 라인쪽에서 호출하는 callback을 받아주는 웹서버
+* 라인쪽에서 호출할, callbackURL을 서비스하는 웹서버
 
 ## 라인봇 가입
 https://business.line.me/ko/products/4/introduction
